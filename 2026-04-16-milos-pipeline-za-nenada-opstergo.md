@@ -1,0 +1,1 @@
+ai sam koristio da radim vecinu posla. problemi su bili: slack poruke i formatiranje, te nije uvijek pullao github stvari, onda je zazujao. npr milos je pushao nes novo, ai bi radio na starom gitu , ja sam ga morao zaustavit i rec da stane i pulla.
