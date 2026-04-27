@@ -1,0 +1,1 @@
+uglavnom radio sam cost analizu, AI nije dobar u formatiranju slack poruka, te nije dobar bas u pisanju, moras dosta iterirat s njim, te nije dobar kad treba profesionalno pisat stvari
